@@ -2,10 +2,6 @@
 
 Exercise building a decision tree in scikit learn for the "Predicting Loans" dataset.
 
-## Data
-
-[Download the datasets](../../../data/loans.csv.zip). Unzip them and make sure they are in the same folder as your notebook. 
-
 ## Prerequisites
 
 1. `pip install matplotlib numpy scipy scikit-learn pandas graphviz pydotplus`
